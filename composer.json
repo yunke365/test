@@ -1,0 +1,21 @@
+{
+	"name": "CrazyCoder/test",
+	"description": "测试用COMPOSER包",
+	"keywords": ["test","test composer"],
+	"type": "CrazyCoder extension",
+	"license": "BSD-3-Clause",
+	"authors": [
+	{
+	"name": "CrazyCoder",
+	"email": "36601305@qq.com",
+	"homepage": "https://www.yunkee.net/"
+	}
+	],
+	"require": {},
+	"minimum-stability": "dev",
+	"autoload": {
+		"psr-4": {
+			"yunke365\\test\\": "src"
+		}
+	}
+}
