@@ -5,14 +5,14 @@
 	"type": "CrazyCoder-extension",
 	"license": "BSD-3-Clause",
 	"authors": [
-	{
-	"name": "crazy-coder",
-	"email": "36601305@qq.com",
-	"homepage": "https://www.yunkee.net/"
-	}
+		{
+			"name": "crazy-coder",
+			"email": "36601305@qq.com",
+			"homepage": "https://www.yunkee.net/"
+		}
 	],
 	"require": {
-		"php": "^7.1",
+		"php": "^7.1"
 	},
 	"minimum-stability": "dev",
 	"autoload": {
