@@ -1,12 +1,12 @@
 {
-	"name": "CrazyCoder/test",
+	"name": "/test",
 	"description": "测试用COMPOSER包",
 	"keywords": ["test","test composer"],
 	"type": "CrazyCoder extension",
 	"license": "BSD-3-Clause",
 	"authors": [
 	{
-	"name": "CrazyCoder",
+	"name": "crazy-coder",
 	"email": "36601305@qq.com",
 	"homepage": "https://www.yunkee.net/"
 	}
