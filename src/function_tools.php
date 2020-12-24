@@ -25,6 +25,6 @@ class function_tools
  */
 	public static function env()
 	{
-		phpinfo();
+		echo 'success';
 	} // end func
 } // end class
