@@ -1,5 +1,5 @@
 {
-	"name": "/test",
+	"name": "crazy-coder/test",
 	"description": "测试用COMPOSER包",
 	"keywords": ["test","test composer"],
 	"type": "CrazyCoder extension",
